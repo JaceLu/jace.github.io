@@ -1,0 +1,24 @@
+.job {
+    border: 2px solid #feb800;
+    padding: 30px;
+    margin-bottom: 30px;
+    min-height: 330px;
+}
+.job__hd {
+    margin-bottom:20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+}
+.job-title {
+    margin: 0 auto;
+    margin-bottom:30px;
+    width: 80%;
+    text-align: center;
+    font-size: 18px;
+    color: #263238;
+    font-weight: bold;
+}
+.job-desc{
+
+}
