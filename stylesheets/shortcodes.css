@@ -491,6 +491,7 @@
 /* Flat contact us
 -------------------------------------------------------------- */
 .flat-contact-us h1 {
+    margin-bottom:30px;
 	font-family: "Condensed-Black", sans-serif;
 	font-size: 36px;
 	color: #fff;
@@ -513,18 +514,27 @@
 	background-color: #000;
 	content: "";
 }
-
-/* Flat list
--------------------------------------------------------------- */
-.flat-list ul li .title {
-	font-family: "Condensed-Black", sans-serif;
-	font-size: 16px;
-	line-height: 48px;
-	color: #000;
-	text-transform: capitalize;
-	letter-spacing: 0.7px;
-	padding-bottom: 4px;
+.flat-contact-us p {
+    margin-top: 15px;
+    font-family: "Condensed-Black", sans-serif;
+    font-size: 18px;
+    color: #fffdf7;
+    text-align: center;
 }
+    .flat-contact-us p a{
+        color:#000;
+    }
+    /* Flat list
+-------------------------------------------------------------- */
+    .flat-list ul li .title {
+        font-family: "Condensed-Black", sans-serif;
+        font-size: 16px;
+        line-height: 48px;
+        color: #000;
+        text-transform: capitalize;
+        letter-spacing: 0.7px;
+        padding-bottom: 4px;
+    }
 
 .flat-list ul li {
 	margin-bottom: 64px;	

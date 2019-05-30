@@ -922,6 +922,7 @@ input[type="color"],
         color: #999999;
         text-decoration: none;
         line-height: 120px;
+        font-size:16px;
         padding: 0 35px 0 31px;
         outline: none;
         letter-spacing: 1.8px;
@@ -2057,7 +2058,7 @@ input[type="color"],
 /* Border */
 .widget-sv.sv-information.border {
     border: 5px solid #feb800;
-    padding: 84px 85px 100px 50px;
+    padding: 110px 85px 110px 50px;
 }
 
 /* Widget services */
